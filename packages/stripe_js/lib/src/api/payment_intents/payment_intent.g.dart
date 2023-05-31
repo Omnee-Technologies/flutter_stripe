@@ -154,7 +154,7 @@ const _$PaymentIntentConfirmationMethodEnumMap = {
 };
 
 const _$PaymentMethodTypeEnumMap = {
-  PaymentMethodType.acssDebit: 'acssDebit',
+  PaymentMethodType.acssDebit: 'acss_debit',
   PaymentMethodType.affirm: 'affirm',
   PaymentMethodType.afterpayClearpay: 'afterpayClearpay',
   PaymentMethodType.alipay: 'alipay',

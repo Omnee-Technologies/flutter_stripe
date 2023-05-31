@@ -86,7 +86,7 @@ Map<String, dynamic> _$$_PaymentMethodToJson(_$_PaymentMethod instance) {
 }
 
 const _$PaymentMethodTypeEnumMap = {
-  PaymentMethodType.acssDebit: 'acssDebit',
+  PaymentMethodType.acssDebit: 'acss_debit',
   PaymentMethodType.affirm: 'affirm',
   PaymentMethodType.afterpayClearpay: 'afterpayClearpay',
   PaymentMethodType.alipay: 'alipay',
